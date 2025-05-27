@@ -1,7 +1,10 @@
 com\mycompany\sof2043_sd20301\Sof2043_SD20301.class
 com\mycompany\sof2043_sd20301\ui\StudentJFrame.class
+com\mycompany\sof2043_sd20301\dao\StudentDao.class
 com\mycompany\sof2043_sd20301\util\XJdbc.class
 com\mycompany\sof2043_sd20301\util\XQuery.class
+com\mycompany\sof2043_sd20301\entity\Student.class
 com\mycompany\sof2043_sd20301\ui\StudentJFrame$1.class
+com\mycompany\sof2043_sd20301\ui\StudentJFrame$2.class
 com\mycompany\sof2043_sd20301\entity\Category.class
 com\mycompany\sof2043_sd20301\entity\Category$CategoryBuilder.class
